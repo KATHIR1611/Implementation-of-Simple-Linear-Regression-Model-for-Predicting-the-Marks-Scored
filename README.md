@@ -114,7 +114,7 @@ Values of MSE,MAE and RMSE
 
 ![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2029.png)
 
-Values of MSE,MAE and RMSE ![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2029.png)
+Values of MSE,MAE and RMSE               ![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2029.png)
 
 
 

@@ -75,7 +75,7 @@ print("RMSE = ",rmse)
 
 ## Output:
 df.head()
-![head](https://raw.githubusercontent.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/main/ML%20exp%2021.png)
+!(https://raw.githubusercontent.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/main/ML%20exp%2021.png)
 
 
 ## Result:

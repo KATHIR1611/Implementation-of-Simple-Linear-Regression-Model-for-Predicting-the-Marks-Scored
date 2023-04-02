@@ -79,38 +79,30 @@ print("RMSE = ",rmse)
 
 ## Output:
 df.head()
-
 ![](https://raw.githubusercontent.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/main/ML%20exp%2021.png)
 
 df.tail()
-
 ![](https://raw.githubusercontent.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/main/ML%20exp%2022.png)
 
 Array values of x
-
 ![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2023.png)
 
 Array values of y
 ![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2024.png)
 
 Values of y prediction
-
 ![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%20210.png)
 
 Array values of y test
-
 ![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2026.png)
 
 Training set graph
-
 ![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2027.png)
 
 Test set graph
-
 ![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exc%2028.png)
 
 Values of MSE,MAE and RMSE
-
 ![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2029.png)
 
 

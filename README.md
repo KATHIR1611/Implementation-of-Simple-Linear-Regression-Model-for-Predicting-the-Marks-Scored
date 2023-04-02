@@ -78,6 +78,10 @@ df.head()
 
 ![](https://raw.githubusercontent.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/main/ML%20exp%2021.png)
 
+df.tail()
+
+![](https://raw.githubusercontent.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/main/ML%20exp%2022.png)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.

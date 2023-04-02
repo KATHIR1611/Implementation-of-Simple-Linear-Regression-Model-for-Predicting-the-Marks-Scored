@@ -74,7 +74,6 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-df.head()
 ![head](ML exp21.png)
 
 

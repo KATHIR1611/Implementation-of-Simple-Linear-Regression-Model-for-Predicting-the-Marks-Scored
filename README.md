@@ -75,7 +75,7 @@ print("RMSE = ",rmse)
 
 ## Output:
 df.head()
-![1](ML exp21.png)
+![head](ML exp21.png)
 
 
 ## Result:

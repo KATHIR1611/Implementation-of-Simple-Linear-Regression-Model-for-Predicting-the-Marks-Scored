@@ -74,7 +74,7 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-![head](ML exp21.png)
+![head](./image/ML exp21.png)
 
 
 ## Result:

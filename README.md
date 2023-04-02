@@ -8,17 +8,23 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the required packages.
+2.Display the values predicted using scatter plot and predict.
+3.Plot the graph according to the given input.
+4.End the program
 
 ## Program:
+Program to implement the simple linear regression model for predicting the marks scored.
+Developed by: KATHIRVELAN.K
+RegisterNumber: 212221220026 
 ```
 /*
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.metrics import mean_absolute_error, mean_squared_error
+df=pd.read_csv('student_scores.csv')
+df.head()
 */
 ```
 

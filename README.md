@@ -74,7 +74,8 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+df.head()
+![1](ML exp21.png)
 
 
 ## Result:

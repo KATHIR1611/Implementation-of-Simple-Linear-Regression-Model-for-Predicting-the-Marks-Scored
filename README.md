@@ -8,6 +8,7 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+
 1. Import the required packages.
  
 2.Display the values predicted using scatter plot and predict.

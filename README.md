@@ -92,6 +92,13 @@ Array values of x
 
 Array values of y
 
+
+
+
+
+
+
+
 ![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2024.png)
 
 Values of y prediction

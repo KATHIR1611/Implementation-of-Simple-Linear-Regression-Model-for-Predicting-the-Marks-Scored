@@ -96,7 +96,7 @@ Array values of y
 
 Values of y prediction
 
-![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%2025.png)
+![](https://github.com/KATHIR1611/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ML%20exp%20210.png)
 
 Array values of y test
 

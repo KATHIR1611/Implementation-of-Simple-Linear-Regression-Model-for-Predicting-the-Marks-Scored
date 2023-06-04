@@ -20,6 +20,7 @@ To write a program to predict the marks scored by a student using the simple lin
  4.End the program
 
 ## Program:
+Program to implement the simple linear regression model for predicting the marks scored.
 
 Developed by: KATHIRVELAN.K
 
